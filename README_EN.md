@@ -9,6 +9,7 @@ The official MoonBit command-line tool "moon pilot" is very handy. Since I prima
 - Source and test code generation for fast feedback
 - Cross-language migration assistance
 - Incremental functional programming experience
+- Model-agnostic; works with any powerful large language model (e.g., GPT-5, Claude 4.5, Gemini 2.5)
 
 ### How to Use
 1. Enable the custom agent capability in your IDE and add the MoonBit agent.
